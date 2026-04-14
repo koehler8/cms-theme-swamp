@@ -1,7 +1,7 @@
 # @koehler8/cms-theme-swamp — Swamp Nocturne
 
 - **Slug**: `swamp`
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 - **Author**: koehler8
 
 ## Install
@@ -34,3 +34,11 @@ Set `site.theme` to `"swamp"` in your site config. External fonts ship via Googl
 ## Compatibility Notes
 - Background layers are intense; avoid stacking additional full-bleed imagery without testing contrast.
 - Theme CSS scopes to `[data-site-theme="swamp"]` and touches hero/status/CTA shells—keep further overrides colocated here to prevent spillover into other themes.
+
+## Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
+
+## License
+
+[MIT](./LICENSE)
